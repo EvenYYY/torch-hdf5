@@ -1,5 +1,5 @@
 package = 'hdf5'
-version = '0-0'
+version = '1.8.14'
 
 source = {
    url = 'git://github.com/EvenYYY/torch-hdf5.git',
